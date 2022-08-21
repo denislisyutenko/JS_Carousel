@@ -423,6 +423,7 @@ just for appearance; change whatever you want
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+  margin-bottom: 20px;
 }
 
 .indicator {
