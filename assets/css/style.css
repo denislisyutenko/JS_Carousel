@@ -440,3 +440,15 @@ just for appearance; change whatever you want
 .indicator.active {
   background-color: tomato;
 }
+
+.control-pause {
+  position: relative;
+}
+.control-pause > span {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
