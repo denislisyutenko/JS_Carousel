@@ -22,14 +22,6 @@
   background-size: cover;
   font-size: 40px;
 
-  a {
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-  }
-
   &.active {
     z-index: 1;
     opacity: 1;
